@@ -34,7 +34,14 @@ A showcase of my freelance web design work with creative features and responsive
 
 ---
 
-## 5. Art Portfolio
+## 5. React Cafe College Project
+A collaborative React project simulating a café ordering system. Includes modern UI components, dynamic menu filtering, and state management.  
+- **Repo:** [Cafe React GitHub Repo](https://github.com/JMZ-WD/Cafe)  
+- **Live Demo:** [View Live](https://jmz-webdesigns.co.uk/cafe)
+
+---
+
+## 6. Art Portfolio
 A fun, creative website presenting artwork, including paintings, music, and crafts.  
 - **Repo:** [Art GitHub Repo](https://github.com/JMZ-WD/Art)  
 - **Live Demo:** [View Live](https://jmz-webdesigns.co.uk/art/index.html)
