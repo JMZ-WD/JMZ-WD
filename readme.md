@@ -29,8 +29,8 @@ PHP + MySQL project with user registration, login sessions, and a booking system
 
 ## 4. Freelance Business Website
 A showcase of my freelance web design work with creative features and responsive layout.  
-- **Repo:** [Business GitHub Repo](https://github.com/JMZ-WD/Business)  
-- **Live Demo:** [View Live](https://yourbusinesssite.com)
+- **Repo:** [Business GitHub Repo](https://github.com/JMZ-WD/Freelance-Business)  
+- **Live Demo:** [View Live](https://jmz-webdesigns.co.uk/)
 
 ---
 
